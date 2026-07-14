@@ -1,0 +1,131 @@
+# Task 9 – Navigation Flow
+
+## Sports Hall Booking System using ServiceNow Service Portal
+
+### Overview
+
+This task focuses on designing the navigation flow of the Sports Hall Booking System. The navigation ensures users can move smoothly between different pages while booking sports facilities through the Service Portal.
+
+---
+
+## Objective
+
+Create a simple, organized, and efficient navigation structure that improves the overall user experience.
+
+---
+
+## Navigation Structure
+
+Home
+
+→ Sports Halls
+
+→ Available Slots
+
+→ Book Hall
+
+→ My Bookings
+
+→ Booking History
+
+→ Notifications
+
+→ User Profile
+
+→ Logout
+
+---
+
+## User Flow
+
+Login
+
+↓
+
+Open Service Portal
+
+↓
+
+Select Sports Hall
+
+↓
+
+Check Slot Availability
+
+↓
+
+Fill Booking Form
+
+↓
+
+Submit Booking Request
+
+↓
+
+Approval Process
+
+↓
+
+Booking Confirmation
+
+↓
+
+View Booking Status
+
+---
+
+## Navigation Features
+
+- Fixed Navigation Bar
+- Responsive Menu
+- Breadcrumb Navigation
+- Quick Access Buttons
+- User Profile Menu
+- Logout Option
+
+---
+
+## Design Considerations
+
+- Easy Navigation
+- Reduced Clicks
+- Fast Page Access
+- Mobile Responsive
+- Consistent Layout
+- User-Friendly Interface
+
+---
+
+## Benefits
+
+- Smooth User Experience
+- Faster Booking Process
+- Improved Accessibility
+- Clear Navigation Paths
+- Better Portal Usability
+
+---
+
+## Technologies Used
+
+- ServiceNow Service Portal
+- HTML
+- CSS
+- Bootstrap
+- AngularJS
+
+---
+
+## Deliverables
+
+- Navigation Menu
+- User Navigation Flow
+- Responsive Portal Navigation
+- Service Portal Routing
+- Improved User Experience
+
+---
+
+## Status
+
+Completed

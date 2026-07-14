@@ -1,0 +1,107 @@
+# Task 8 – Interface Design
+
+## Sports Hall Booking System using ServiceNow Service Portal
+
+### Overview
+
+This task focuses on designing the user interface (UI) for the Sports Hall Booking System using the ServiceNow Service Portal. The objective is to provide a clean, responsive, and user-friendly interface that enables users to easily browse sports facilities, check slot availability, and submit booking requests.
+
+---
+
+## Objective
+
+Design an intuitive and responsive Service Portal interface that enhances user experience and simplifies the sports hall booking process.
+
+---
+
+## Features Implemented
+
+- Responsive Service Portal Homepage
+- Navigation Menu
+- Sports Hall Listing
+- Available Slot Display
+- Booking Request Form
+- Booking Confirmation Page
+- User Dashboard
+- My Bookings Page
+- Profile Section
+
+---
+
+## Technologies Used
+
+- ServiceNow Service Portal
+- HTML
+- CSS
+- Bootstrap
+- AngularJS
+- JavaScript
+
+---
+
+## Interface Components
+
+### Home Page
+- Welcome Banner
+- Sports Categories
+- Quick Booking Button
+- Announcements Section
+
+### Sports Hall Page
+- Hall Name
+- Description
+- Capacity
+- Available Slots
+- Book Now Button
+
+### Booking Form
+- User Details
+- Sports Type
+- Booking Date
+- Time Slot
+- Number of Players
+- Remarks
+
+### Dashboard
+- Current Bookings
+- Booking Status
+- Booking History
+
+---
+
+## UI Design Principles
+
+- Responsive Layout
+- Simple Navigation
+- Clean Design
+- Consistent Color Scheme
+- Easy Accessibility
+- Mobile Friendly
+
+---
+
+## Expected Outcome
+
+Users can easily:
+
+- View available sports halls
+- Check slot availability
+- Submit booking requests
+- Track booking status
+- Access their booking history
+
+---
+
+## Deliverables
+
+- Responsive Interface Design
+- Service Portal Pages
+- Booking Form UI
+- Dashboard Layout
+- User-Friendly Experience
+
+---
+
+## Status
+
+Completed
